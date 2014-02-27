@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Books.txt</file>
+        <file>Members.txt</file>
+        <file>lmIcon.png</file>
+    </qresource>
+</RCC>
